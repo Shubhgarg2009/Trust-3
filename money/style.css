@@ -1,0 +1,55 @@
+.names{
+    display:flex;
+    justify-content:space-evenly;
+    color:darkslategray;
+    font-size: 20px;
+   
+}
+.layouts{
+    display:flex;
+   
+    justify-content:space-around;
+    color:darkslategray;
+    font-size: 30px;
+    
+}
+.layouts details{
+    margin-left: 100px;
+   
+}
+.images{
+    text-align: center;
+}
+.login{
+    color:gray;
+    font-family: "stencil";
+    text-align: center;
+}
+.follow{
+    text-align: center;
+    font-family:" snapitc";
+    font-size:" large ";
+    color:orange;
+    
+}
+
+.img1{
+    text-align: center;
+margin-top:30px;
+    
+}
+.img2{
+    text-align: center;
+margin-top: 30px;
+    
+}
+.img3{
+    text-align: center;
+margin-top: 30px;
+}
+.behind2{
+    color:white;
+}
+.image{
+    text-align: center;
+}

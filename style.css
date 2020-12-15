@@ -1,0 +1,26 @@
+.names{
+    display:flex;
+    justify-content:space-evenly;
+    color:darkslategray;
+    font-size: 20px;
+   
+}
+.layouts{
+    display:flex;
+    margin-bottom  :100px;
+    justify-content:space-around;
+    color:darkslategray;
+    font-size: 30px;
+
+}
+.layouts details{
+    margin-left: 700px;
+}
+.images{
+    text-align: center;
+}
+.login{
+    color:gray;
+    font-family: "stencil";
+    text-align: center;
+}
